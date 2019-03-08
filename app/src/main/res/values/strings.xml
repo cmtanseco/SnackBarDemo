@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CT_SnackBar</string>
+    <string name="btnFirst">Default Snackbar</string>
+    <string name="btnSecond">Action Call Snackbar</string>
+</resources>
